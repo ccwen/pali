@@ -1,0 +1,20 @@
+{
+  "name": "pali",
+  "version": "0.0.1",
+  "description": "Pali language processing kits",
+  "main": "index.js",
+  "scripts": {
+    "test": "vows"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yapcheahshen/pali"
+  },
+  "keywords": [
+    "pali"
+  ],
+  "author": "yapcheahshen@gmail.com",
+  "license": "GPL 3.0",
+  "readmeFilename": "README.md",
+  "gitHead": "14250a286c4bdb1dfae978cadaa6df094a7abab5"
+}
